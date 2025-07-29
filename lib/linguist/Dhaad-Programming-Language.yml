@@ -1,0 +1,9 @@
+Dhaad:
+  type: programming
+  color: "#FF8800" # pick a HEX color for the language
+  extensions:
+    - ".dh"
+  tm_scope: source.dhaad
+  ace_mode: text
+  language_id: 999 # use a unique number
+  group: Other
